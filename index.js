@@ -53,7 +53,7 @@ async function main(){
         },
         {
             type: "input",
-            message: "Provide examples on how to run tests.",
+            message: " how to run the application.",
             name: "tests"
         }
         ]);
