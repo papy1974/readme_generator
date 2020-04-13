@@ -3,6 +3,8 @@ bird locations
 
 * [Installation](#Installation)
 
+* [description](#Description)
+
 * [Instructions](#Instructions)
 
 * [License](#License)
@@ -15,6 +17,10 @@ bird locations
 
 ## Installation
  To run the project, user have to install  access control allow in order to hear the bird sound, get the location, and select the birds type. 
+
+## Description 
+
+
 ## Instructions
 more information about access control allow can be found here : https://www.html5rocks.com/en/tutorials/cors/
 ```
