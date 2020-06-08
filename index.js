@@ -68,6 +68,7 @@ async function main(){
         const projectTittle = userResponse.projectTittle;
         // create variable projectDescription
         const projectDescription = userResponse.projectDescription;
+        // create variable installationProcess
         const installationProcess = userResponse.installationProcess;
         const instruction = userResponse.instruction;
         const instructionExample = userResponse.instructionExample;
