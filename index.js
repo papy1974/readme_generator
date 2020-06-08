@@ -66,6 +66,7 @@ async function main(){
         const gitUsername = userResponse.username;
         // create variable projectTittle
         const projectTittle = userResponse.projectTittle;
+        // create variable projectDescription
         const projectDescription = userResponse.projectDescription;
         const installationProcess = userResponse.installationProcess;
         const instruction = userResponse.instruction;
