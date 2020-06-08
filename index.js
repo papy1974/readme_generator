@@ -60,6 +60,9 @@ async function main(){
         ]);
         console.log(`starting`);
         console.log(userResponse);
+        
+
+        // create variable gitUsername
         const gitUsername = userResponse.username;
         const projectTittle = userResponse.projectTittle;
         const projectDescription = userResponse.projectDescription;
