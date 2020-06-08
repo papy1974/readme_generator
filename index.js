@@ -74,6 +74,7 @@ async function main(){
         const instruction = userResponse.instruction;
         //create variable instructionExample
         const instructionExample = userResponse.instructionExample;
+        // create variable licenceName
         const licenseName = userResponse.licenseName;
         const licenseUrl = userResponse.licenseUrl;
         const contributorUserNames = userResponse.contributorsGitUserName;
