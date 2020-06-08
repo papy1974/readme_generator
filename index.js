@@ -72,6 +72,7 @@ async function main(){
         const installationProcess = userResponse.installationProcess;
         //create variable instruction
         const instruction = userResponse.instruction;
+        //create variable instructionExample
         const instructionExample = userResponse.instructionExample;
         const licenseName = userResponse.licenseName;
         const licenseUrl = userResponse.licenseUrl;
