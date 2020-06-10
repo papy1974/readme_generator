@@ -39,7 +39,8 @@ more information about access control allow can be found here : https://www.html
 ```
 ## Usage
 
-Need to install access control allow to run the app. here is the project link : https://jepps2020.github.io/Project_1GWU/. Once the is launched in browser, click begin, next the birds number, the websites will pop up with birds in your location and click on arrrow to here the bird sounds
+Need to install access control allow to run the app. here is the project link : https://jepps2020.github.io/Project_1GWU/. Once the is launched in browser, click begin, next the birds number, the websites will pop up with birds in your location and click on arrrow to here the bird sounds.
+
 The project demo can be seen in the following link:https://drive.google.com/file/d/1-OhuydFSQz0FUWi2ox4AoIPYrPDQomRD/view
 
 ## License 
@@ -59,7 +60,7 @@ see the www.source.org file for details
 
 Jasmine:https://github.com/JEpps2020, Jeanine:, and PUTHEARA.
             
- <img src="https://avatars3.githubusercontent.com/u/58053159?v=4" alt="drawing" width="150" display="inline"/> papy1974  GitHubLink: https://github.com/papy1974
+https://github.com/papy1974
 
 ## Tests
 Run the project in chrome to make it faster and working. There is currectnly no tests.
